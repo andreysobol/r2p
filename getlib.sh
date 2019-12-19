@@ -1,0 +1,1 @@
+mv rlib/target/release/librlib.dylib p/librlib.so
