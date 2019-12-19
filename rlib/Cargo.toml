@@ -1,11 +1,10 @@
 [package]
-name = "rlib"
+name = "prlib"
 version = "0.1.0"
 authors = ["Andrey Sobol <baskerville@andreysobol.com>"]
-edition = "2018"
 
 [lib]
-name = "myrustlib"
+name = "rlib"
 crate-type = ["dylib"]
 
 [dependencies.cpython]
